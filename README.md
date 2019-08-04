@@ -1,2 +1,2 @@
 # University-of-Pittsburgh
-Includes school projects for various courses at the University
+Includes selected school projects for various courses at the University.
